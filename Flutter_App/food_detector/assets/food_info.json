@@ -1,0 +1,1015 @@
+{
+  "apple_pie": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Apel",
+      "Kulit Pai",
+      "Gula",
+      "Kayu Manis",
+      "Mentega"
+    ]
+  },
+  "baby_back_ribs": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Iga Babi",
+      "Saus BBQ",
+      "Bumbu Kering"
+    ]
+  },
+  "baklava": {
+    "origin": "Timur Tengah/Yunani/Turki",
+    "ingredients": [
+      "Adonan Phyllo",
+      "Kacang Cincang (Kenari/Pistachio)",
+      "Mentega",
+      "Sirup Gula (Madu/Lemon)"
+    ]
+  },
+  "beef_carpaccio": {
+    "origin": "Italia",
+    "ingredients": [
+      "Daging Sapi Mentah Iris Tipis",
+      "Keju Parmesan",
+      "Arugula",
+      "Minyak Zaitun",
+      "Perasan Lemon"
+    ]
+  },
+  "beef_tartare": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Daging Sapi Mentah Cincang Halus",
+      "Capers",
+      "Bawang Merah",
+      "Kuning Telur",
+      "Mustard",
+      "Saus Worcestershire"
+    ]
+  },
+  "beet_salad": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Ubi Bit yang Dimasak",
+      "Keju Kambing (opsional)",
+      "Kacang-kacangan (Kenari/Pecan)",
+      "Sayuran Hijau (Arugula/Bayam)",
+      "Vinaigrette"
+    ]
+  },
+  "beignets": {
+    "origin": "Prancis/New Orleans, Amerika Serikat",
+    "ingredients": [
+      "Adonan Goreng",
+      "Gula Halus"
+    ]
+  },
+  "bibimbap": {
+    "origin": "Korea",
+    "ingredients": [
+      "Nasi",
+      "Berbagai Sayuran Tumis (Namul)",
+      "Telur Goreng",
+      "Daging Marinasi (Sapi/Ayam - opsional)",
+      "Gochujang (Pasta Cabai)"
+    ]
+  },
+  "bread_pudding": {
+    "origin": "Eropa",
+    "ingredients": [
+      "Roti Tawar Kering",
+      "Susu",
+      "Telur",
+      "Gula",
+      "Rempah-rempah (Kayu Manis/Pala)",
+      "Kismis (opsional)"
+    ]
+  },
+  "breakfast_burrito": {
+    "origin": "Amerika Serikat (Barat Daya)",
+    "ingredients": [
+      "Tortilla",
+      "Telur Orak-arik",
+      "Kentang",
+      "Keju",
+      "Sosis/Bacon (opsional)",
+      "Salsa"
+    ]
+  },
+  "bruschetta": {
+    "origin": "Italia",
+    "ingredients": [
+      "Roti Panggang",
+      "Tomat Cincang",
+      "Bawang Putih",
+      "Basil",
+      "Minyak Zaitun",
+      "Saus Balsamic (opsional)"
+    ]
+  },
+  "caesar_salad": {
+    "origin": "Meksiko/Amerika Serikat",
+    "ingredients": [
+      "Selada Romaine",
+      "Crouton",
+      "Keju Parmesan",
+      "Saus Caesar (Telur, Minyak Zaitun, Lemon, Worcestershire, Ikan Teri)"
+    ]
+  },
+  "cannoli": {
+    "origin": "Italia (Sisilia)",
+    "ingredients": [
+      "Kulit Pastry Goreng",
+      "Isian Keju Ricotta",
+      "Gula",
+      "Buah Manisan/Cokelat Chip"
+    ]
+  },
+  "caprese_salad": {
+    "origin": "Italia",
+    "ingredients": [
+      "Keju Mozzarella Segar",
+      "Tomat",
+      "Basil Segar",
+      "Minyak Zaitun",
+      "Saus Balsamic (opsional)"
+    ]
+  },
+  "carrot_cake": {
+    "origin": "Eropa/Timur Tengah",
+    "ingredients": [
+      "Wortel Parut",
+      "Tepung",
+      "Gula",
+      "Telur",
+      "Rempah-rempah (Kayu Manis/Pala)",
+      "Frosting Keju Krim"
+    ]
+  },
+  "ceviche": {
+    "origin": "Peru",
+    "ingredients": [
+      "Ikan/Makanan Laut Mentah",
+      "Perasan Jeruk Nipis/Lemon (Dimasak dengan Asam)",
+      "Bawang Merah",
+      "Seledri",
+      "Cabai"
+    ]
+  },
+  "cheesecake": {
+    "origin": "Yunani Kuno/Amerika Serikat Modern",
+    "ingredients": [
+      "Keju Krim",
+      "Dasar Graham Cracker",
+      "Gula",
+      "Telur",
+      "Vanilla"
+    ]
+  },
+  "cheese_plate": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Aneka Keju",
+      "Kerupuk/Roti",
+      "Buah-buahan",
+      "Kacang-kacangan",
+      "Selai/Madu"
+    ]
+  },
+  "chicken_curry": {
+    "origin": "India",
+    "ingredients": [
+      "Ayam",
+      "Bubuk/Pasta Kari",
+      "Bawang Merah",
+      "Bawang Putih",
+      "Jahe",
+      "Santan/Krim Kelapa",
+      "Rempah-rempah"
+    ]
+  },
+  "chicken_quesadilla": {
+    "origin": "Meksiko",
+    "ingredients": [
+      "Tortilla",
+      "Ayam Matang",
+      "Keju",
+      "Paprika",
+      "Bawang Bombay",
+      "Salsa/Krim Asam (untuk penyajian)"
+    ]
+  },
+  "chicken_wings": {
+    "origin": "Amerika Serikat (Buffalo, NY)",
+    "ingredients": [
+      "Sayap Ayam",
+      "Saus Pedas (Saus Buffalo)",
+      "Mentega",
+      "Saus Keju Biru (untuk penyajian)",
+      "Seledri"
+    ]
+  },
+  "chocolate_cake": {
+    "origin": "Amerika Serikat/Eropa",
+    "ingredients": [
+      "Tepung",
+      "Gula",
+      "Bubuk Kakao",
+      "Telur",
+      "Mentega/Minyak",
+      "Frosting Cokelat"
+    ]
+  },
+  "chocolate_mousse": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Cokelat",
+      "Telur",
+      "Krim",
+      "Gula"
+    ]
+  },
+  "churros": {
+    "origin": "Spanyol/Portugal",
+    "ingredients": [
+      "Pastry Adonan Goreng",
+      "Gula Kayu Manis",
+      "Saus Cokelat/Dulce de Leche (untuk cocolan)"
+    ]
+  },
+  "clam_chowder": {
+    "origin": "Amerika Serikat (New England)",
+    "ingredients": [
+      "Kerang",
+      "Kentang",
+      "Bawang Bombay",
+      "Bacon/Pancetta",
+      "Krim/Susu",
+      "Thyme"
+    ]
+  },
+  "club_sandwich": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Roti Panggang",
+      "Daging Kalkun/Ayam",
+      "Bacon",
+      "Selada",
+      "Tomat",
+      "Mayones"
+    ]
+  },
+  "crab_cakes": {
+    "origin": "Amerika Serikat (Maryland)",
+    "ingredients": [
+      "Daging Kepiting",
+      "Tepung Roti",
+      "Mayones",
+      "Telur",
+      "Bumbu Old Bay",
+      "Mustard Dijon"
+    ]
+  },
+  "creme_brulee": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Krim",
+      "Kuning Telur",
+      "Gula",
+      "Biji Vanilla",
+      "Topping Gula Karamel"
+    ]
+  },
+  "croque_madame": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Roti",
+      "Ham",
+      "Keju Gruyère",
+      "Saus Béchamel",
+      "Telur Goreng (di atasnya)"
+    ]
+  },
+  "cup_cakes": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Tepung",
+      "Gula",
+      "Telur",
+      "Mentega",
+      "Baking Powder",
+      "Frosting"
+    ]
+  },
+  "deviled_eggs": {
+    "origin": "Roma Kuno/Amerika Serikat Modern",
+    "ingredients": [
+      "Telur Rebus Keras",
+      "Mayones",
+      "Mustard",
+      "Paprika"
+    ]
+  },
+  "donuts": {
+    "origin": "Belanda/Amerika Serikat",
+    "ingredients": [
+      "Adonan Goreng",
+      "Gula",
+      "Glasir/Frosting"
+    ]
+  },
+  "dumplings": {
+    "origin": "Tiongkok",
+    "ingredients": [
+      "Kulit Pangsit",
+      "Daging Giling (Babi/Udang)",
+      "Sayuran (Kol/Kucai)",
+      "Kecap",
+      "Jahe",
+      "Bawang Putih"
+    ]
+  },
+  "edamame": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Kedelai Muda (dalam polong)",
+      "Garam"
+    ]
+  },
+  "eggs_benedict": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Roti Muffin Inggris",
+      "Telur Rebus Setengah Matang",
+      "Bacon Kanada/Ham",
+      "Saus Hollandaise"
+    ]
+  },
+  "escargots": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Bekicot (Helix Pomatia)",
+      "Mentega Bawang Putih",
+      "Peterseli"
+    ]
+  },
+  "falafel": {
+    "origin": "Timur Tengah",
+    "ingredients": [
+      "Kacang Arab/Kacang Fava Giling",
+      "Remah-rempah (Peterseli/Ketumbar)",
+      "Bumbu",
+      "Digoreng"
+    ]
+  },
+  "filet_mignon": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Steak Tenderloin Sapi",
+      "Garam",
+      "Lada",
+      "Mentega"
+    ]
+  },
+  "fish_and_chips": {
+    "origin": "Britania Raya",
+    "ingredients": [
+      "Ikan Goreng Tepung (Cod/Haddock)",
+      "Kentang Goreng Tebal (Chips)",
+      "Cuka Malt (opsional)"
+    ]
+  },
+  "foie_gras": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Hati Bebek/Angsa yang Digemukkan",
+      "Garam",
+      "Lada"
+    ]
+  },
+  "french_fries": {
+    "origin": "Belgia/Prancis",
+    "ingredients": [
+      "Kentang",
+      "Minyak Goreng",
+      "Garam"
+    ]
+  },
+  "french_onion_soup": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Bawang Bombay",
+      "Kaldu Sapi",
+      "Anggur Merah",
+      "Roti Panggang",
+      "Keju Gruyère Leleh"
+    ]
+  },
+  "french_toast": {
+    "origin": "Eropa/Amerika Serikat",
+    "ingredients": [
+      "Roti",
+      "Telur",
+      "Susu/Krim",
+      "Gula",
+      "Kayu Manis",
+      "Sirup/Gula Halus (untuk penyajian)"
+    ]
+  },
+  "fried_calamari": {
+    "origin": "Italia",
+    "ingredients": [
+      "Cincin Cumi",
+      "Tepung/Breading",
+      "Minyak Goreng",
+      "Saus Marinara (untuk cocolan)"
+    ]
+  },
+  "fried_rice": {
+    "origin": "Tiongkok",
+    "ingredients": [
+      "Nasi Matang",
+      "Telur",
+      "Kacang Polong dan Wortel",
+      "Kecap Asin",
+      "Minyak Wijen",
+      "Daging (Ayam/Udang/Babi - opsional)"
+    ]
+  },
+  "frozen_yogurt": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Yogurt",
+      "Susu",
+      "Gula",
+      "Perisa",
+      "Topping (Buah-buahan/Permen)"
+    ]
+  },
+  "garlic_bread": {
+    "origin": "Italia/Amerika Serikat",
+    "ingredients": [
+      "Roti (Baguette/Roti Italia)",
+      "Mentega",
+      "Bawang Putih",
+      "Peterseli"
+    ]
+  },
+  "gnocchi": {
+    "origin": "Italia",
+    "ingredients": [
+      "Kentang",
+      "Tepung",
+      "Telur",
+      "Garam",
+      "Saus (Pesto/Tomat/Mentega Sage)"
+    ]
+  },
+  "greek_salad": {
+    "origin": "Yunani",
+    "ingredients": [
+      "Tomat",
+      "Mentimun",
+      "Bawang Merah",
+      "Zaitun Kalamata",
+      "Keju Feta",
+      "Minyak Zaitun",
+      "Oregano"
+    ]
+  },
+  "grilled_cheese_sandwich": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Roti",
+      "Keju",
+      "Mentega"
+    ]
+  },
+  "grilled_salmon": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Fillet Salmon",
+      "Minyak Zaitun",
+      "Lemon",
+      "Dill",
+      "Garam",
+      "Lada"
+    ]
+  },
+  "guacamole": {
+    "origin": "Meksiko",
+    "ingredients": [
+      "Alpukat",
+      "Bawang Bombay",
+      "Ketumbar",
+      "Perasan Jeruk Nipis",
+      "Jalapeño (opsional)",
+      "Garam"
+    ]
+  },
+  "gyoza": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Kulit Pangsit",
+      "Daging Babi Giling/Sayuran",
+      "Kol",
+      "Bawang Putih",
+      "Jahe",
+      "Kecap (untuk cocolan)"
+    ]
+  },
+  "hamburger": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Patty Daging Giling",
+      "Roti Burger",
+      "Selada",
+      "Tomat",
+      "Bawang Bombay",
+      "Acar",
+      "Keju (opsional)",
+      "Saus (Saus Tomat/Mustard)"
+    ]
+  },
+  "hot_and_sour_soup": {
+    "origin": "Tiongkok",
+    "ingredients": [
+      "Kaldu",
+      "Jamur",
+      "Tahu",
+      "Rebung",
+      "Telur",
+      "Cuka",
+      "Lada Putih",
+      "Kecap Asin"
+    ]
+  },
+  "hot_dog": {
+    "origin": "Jerman/Amerika Serikat",
+    "ingredients": [
+      "Sosis (Frankfurter)",
+      "Roti Hot Dog",
+      "Mustard",
+      "Saus Tomat",
+      "Acar Manis (opsional)"
+    ]
+  },
+  "huevos_rancheros": {
+    "origin": "Meksiko",
+    "ingredients": [
+      "Tortilla Jagung",
+      "Telur Goreng",
+      "Saus Ranchera",
+      "Kacang-kacangan",
+      "Alpukat (opsional)"
+    ]
+  },
+  "hummus": {
+    "origin": "Timur Tengah",
+    "ingredients": [
+      "Kacang Arab",
+      "Tahini (Pasta Wijen)",
+      "Perasan Lemon",
+      "Bawang Putih",
+      "Minyak Zaitun"
+    ]
+  },
+  "ice_cream": {
+    "origin": "Tiongkok/Italia/Eropa",
+    "ingredients": [
+      "Krim",
+      "Susu",
+      "Gula",
+      "Perisa (Vanilla, Cokelat, dll.)"
+    ]
+  },
+  "lasagna": {
+    "origin": "Italia",
+    "ingredients": [
+      "Lembaran Pasta",
+      "Saus Daging (Ragu)",
+      "Saus Béchamel/Keju Ricotta",
+      "Keju Parmesan",
+      "Keju Mozzarella"
+    ]
+  },
+  "lobster_bisque": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Daging Lobster",
+      "Kaldu Kerang",
+      "Krim",
+      "Brandy/Sherry",
+      "Bumbu Aromatik"
+    ]
+  },
+  "lobster_roll_sandwich": {
+    "origin": "Amerika Serikat (New England)",
+    "ingredients": [
+      "Daging Lobster",
+      "Mayones/Mentega Leleh",
+      "Roti Hot Dog (Dibelah Atas)",
+      "Seledri/Kucai (opsional)"
+    ]
+  },
+  "macaroni_and_cheese": {
+    "origin": "Amerika Serikat/Britania Raya",
+    "ingredients": [
+      "Pasta Makaroni",
+      "Saus Keju (Cheddar/Gruyère)",
+      "Susu",
+      "Mentega",
+      "Tepung"
+    ]
+  },
+  "macarons": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Tepung Almond",
+      "Putih Telur",
+      "Gula Halus",
+      "Gula Pasir",
+      "Isian (Ganache/Buttercream)"
+    ]
+  },
+  "miso_soup": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Dashi (Kaldu)",
+      "Pasta Miso",
+      "Tahu",
+      "Rumput Laut (Wakame)",
+      "Daun Bawang"
+    ]
+  },
+  "mussels": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Kerang Hijau/Biru",
+      "Anggur Putih/Kaldu",
+      "Bawang Putih",
+      "Bawang Merah",
+      "Mentega",
+      "Peterseli"
+    ]
+  },
+  "nachos": {
+    "origin": "Meksiko",
+    "ingredients": [
+      "Keripik Tortilla",
+      "Keju Leleh",
+      "Jalapeños",
+      "Kacang-kacangan",
+      "Daging Giling (opsional)",
+      "Salsa",
+      "Krim Asam",
+      "Guacamole"
+    ]
+  },
+  "omelette": {
+    "origin": "Prancis",
+    "ingredients": [
+      "Telur",
+      "Mentega",
+      "Keju (opsional)",
+      "Sayuran (opsional)"
+    ]
+  },
+  "onion_rings": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Cincin Bawang Bombay",
+      "Adonan/Tepung Roti",
+      "Minyak Goreng",
+      "Garam"
+    ]
+  },
+  "oysters": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Tiram Segar",
+      "Irisan Lemon",
+      "Saus Koktail/Mignonette (untuk penyajian)"
+    ]
+  },
+  "pad_thai": {
+    "origin": "Thailand",
+    "ingredients": [
+      "Mie Beras",
+      "Udang/Ayam/Tahu",
+      "Pasta Asam Jawa",
+      "Saus Ikan",
+      "Gula",
+      "Telur",
+      "Tauge",
+      "Kacang Tanah",
+      "Jeruk Nipis"
+    ]
+  },
+  "paella": {
+    "origin": "Spanyol",
+    "ingredients": [
+      "Nasi",
+      "Saffron",
+      "Ayam/Kelinci",
+      "Makanan Laut (Udang/Kerang)",
+      "Sayuran (Buncis/Kacang Polong)",
+      "Kaldu"
+    ]
+  },
+  "pancakes": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Tepung",
+      "Telur",
+      "Susu",
+      "Baking Powder",
+      "Gula",
+      "Sirup/Mentega (untuk penyajian)"
+    ]
+  },
+  "panna_cotta": {
+    "origin": "Italia",
+    "ingredients": [
+      "Krim",
+      "Gula",
+      "Gelatin",
+      "Vanilla",
+      "Saus Buah (untuk topping)"
+    ]
+  },
+  "peking_duck": {
+    "origin": "Tiongkok",
+    "ingredients": [
+      "Bebek Utuh",
+      "Sirup Maltosa",
+      "Saus Hoisin",
+      "Mentimun",
+      "Daun Bawang",
+      "Pancake Tipis"
+    ]
+  },
+  "pho": {
+    "origin": "Vietnam",
+    "ingredients": [
+      "Mie Beras",
+      "Kaldu Sapi/Ayam",
+      "Irisan Tipis Daging Sapi/Ayam",
+      "Remah-rempah (Basil, Ketumbar)",
+      "Tauge",
+      "Jeruk Nipis"
+    ]
+  },
+  "pizza": {
+    "origin": "Italia",
+    "ingredients": [
+      "Tepung",
+      "Keju",
+      "Saus Tomat",
+      "Topping (Pepperoni, Jamur, dll.)"
+    ]
+  },
+  "pork_chop": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Daging Babi Potong",
+      "Bumbu (Garam, Lada, Rempah-rempah)",
+      "Minyak/Mentega"
+    ]
+  },
+  "poutine": {
+    "origin": "Kanada",
+    "ingredients": [
+      "Kentang Goreng",
+      "Dadih Keju",
+      "Saus Cokelat"
+    ]
+  },
+  "prime_rib": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Daging Sapi Panggang (Potongan Iga)",
+      "Garam",
+      "Lada",
+      "Rempah-rempah (Rosemary, Thyme)",
+      "Bawang Putih"
+    ]
+  },
+  "pulled_pork_sandwich": {
+    "origin": "Amerika Serikat (Selatan)",
+    "ingredients": [
+      "Daging Babi Bahu yang Dimasak Lambat dan Disuwir",
+      "Saus BBQ",
+      "Roti Hamburger",
+      "Coleslaw (opsional)"
+    ]
+  },
+  "ramen": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Mie Gandum",
+      "Kaldu (berbasis Babi/Ayam/Ikan)",
+      "Daging Babi Iris (Chashu)",
+      "Telur Rebus Setengah Matang",
+      "Rumput Laut (Nori)",
+      "Daun Bawang"
+    ]
+  },
+  "ravioli": {
+    "origin": "Italia",
+    "ingredients": [
+      "Adonan Pasta",
+      "Isian Keju Ricotta",
+      "Bayam (opsional)",
+      "Saus (Marinara/Pesto/Mentega Sage)"
+    ]
+  },
+  "red_velvet_cake": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Tepung",
+      "Gula",
+      "Bubuk Kakao",
+      "Pewarna Makanan Merah",
+      "Susu Mentega",
+      "Frosting Keju Krim"
+    ]
+  },
+  "risotto": {
+    "origin": "Italia",
+    "ingredients": [
+      "Nasi Arborio",
+      "Kaldu",
+      "Bawang Bombay",
+      "Anggur Putih",
+      "Keju Parmesan",
+      "Mentega",
+      "Jamur/Sayuran (opsional)"
+    ]
+  },
+  "samosa": {
+    "origin": "India/Timur Tengah",
+    "ingredients": [
+      "Kulit Pastry",
+      "Kentang Berbumbu",
+      "Kacang Polong",
+      "Lentil/Daging Giling (opsional)",
+      "Digoreng"
+    ]
+  },
+  "sashimi": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Ikan/Makanan Laut Mentah Iris Segar",
+      "Wasabi",
+      "Kecap Asin",
+      "Acar Jahe"
+    ]
+  },
+  "scallops": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Kerang Simping Laut",
+      "Mentega",
+      "Bawang Putih",
+      "Lemon",
+      "Peterseli"
+    ]
+  },
+  "seaweed_salad": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Aneka Rumput Laut (Wakame, Agar-agar)",
+      "Minyak Wijen",
+      "Cuka Beras",
+      "Kecap Asin",
+      "Biji Wijen"
+    ]
+  },
+  "shrimp_and_grits": {
+    "origin": "Amerika Serikat (Selatan)",
+    "ingredients": [
+      "Bubur Jagung",
+      "Udang",
+      "Bacon/Sosis",
+      "Keju (opsional)",
+      "Bumbu"
+    ]
+  },
+  "spaghetti_bolognese": {
+    "origin": "Italia",
+    "ingredients": [
+      "Pasta Spageti",
+      "Saus Bolognese (Daging Giling, Tomat, Sayuran, Anggur)",
+      "Keju Parmesan"
+    ]
+  },
+  "spaghetti_carbonara": {
+    "origin": "Italia",
+    "ingredients": [
+      "Pasta Spageti",
+      "Guanciale/Pancetta (Daging Pipi Babi Asap)",
+      "Telur",
+      "Keju Pecorino Romano",
+      "Lada Hitam"
+    ]
+  },
+  "spring_rolls": {
+    "origin": "Asia Tenggara/Tiongkok",
+    "ingredients": [
+      "Kulit Lumpia (Beras/Pastry Tipis)",
+      "Sayuran (Kol, Wortel)",
+      "Mie (Bihun)",
+      "Udang/Babi (opsional)",
+      "Saus Cocolan"
+    ]
+  },
+  "steak": {
+    "origin": "Berbagai Negara",
+    "ingredients": [
+      "Steak Daging Sapi (Ribeye, Sirloin, dll.)",
+      "Garam",
+      "Lada",
+      "Mentega/Minyak",
+      "Rempah-rempah (Rosemary, Thyme)"
+    ]
+  },
+  "strawberry_shortcake": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Biskuit Shortcake/Kue Spons",
+      "Stroberi Segar",
+      "Krim Kocok"
+    ]
+  },
+  "sushi": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Nasi Berbumbu Cuka",
+      "Nori (Rumput Laut)",
+      "Ikan/Makanan Laut Mentah",
+      "Sayuran (Mentimun, Alpukat)",
+      "Wasabi",
+      "Kecap Asin",
+      "Acar Jahe"
+    ]
+  },
+  "tacos": {
+    "origin": "Meksiko",
+    "ingredients": [
+      "Tortilla (Jagung/Tepung)",
+      "Isian (Daging Berbumbu, Ikan, atau Sayuran)",
+      "Salsa",
+      "Bawang Bombay",
+      "Ketumbar",
+      "Jeruk Nipis"
+    ]
+  },
+  "takoyaki": {
+    "origin": "Jepang",
+    "ingredients": [
+      "Adonan Tepung Gandum",
+      "Gurita Matang (Tako)",
+      "Sisa Adonan Tempura (Tenkasu)",
+      "Daun Bawang",
+      "Acar Jahe",
+      "Saus Takoyaki",
+      "Mayones",
+      "Serutan Ikan Bonito (Katsuobushi)"
+    ]
+  },
+  "tiramisu": {
+    "origin": "Italia",
+    "ingredients": [
+      "Ladyfingers (Savoiardi)",
+      "Espresso/Kopi",
+      "Keju Mascarpone",
+      "Telur",
+      "Gula",
+      "Bubuk Kakao"
+    ]
+  },
+  "tuna_tartare": {
+    "origin": "Amerika Serikat",
+    "ingredients": [
+      "Ikan Tuna Mentah Cincang Halus",
+      "Alpukat",
+      "Kecap Asin",
+      "Minyak Wijen",
+      "Jahe",
+      "Perasan Jeruk Nipis"
+    ]
+  },
+  "waffles": {
+    "origin": "Belgia",
+    "ingredients": [
+      "Tepung",
+      "Telur",
+      "Susu",
+      "Gula",
+      "Mentega",
+      "Baking Powder/Ragi",
+      "Sirup/Buah (untuk penyajian)"
+    ]
+  }
+}
